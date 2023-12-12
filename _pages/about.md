@@ -8,15 +8,25 @@ redirect_from:
   - /about.html
 ---
 
+# Education
+
+## University of Southern California
+
+- Master of Science in Computer Science (2022-2023)
+
+## Peking University
+
+- Bachelor of Science in Computer Science (2017-2021)
+
 # Experience
 
-## Gameplay Engineer Intern
+## Gameplay Engineer Intern @ T
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/75RZiVnQTMs?si=quVvE3g910lAlMNv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - Developed two mini games named [*Destroy Blocks*](https://drive.google.com/file/d/1p-Irq4oTw_zVFyyB4XbyJB7pNv7R-LcW/view?usp=sharing) and [*Jelly Warrior*](https://youtu.be/75RZiVnQTMs?si=43WYhWSJryIFql4n) with Unreal Engine
 
 - Simulated elastic objects using three methods: mass-spring system, position-based dynamics and finite element method
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/75RZiVnQTMs?si=quVvE3g910lAlMNv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Project
 
