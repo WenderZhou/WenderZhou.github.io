@@ -10,17 +10,27 @@ redirect_from:
 
 # Education
 
-## University of Southern California
+<p style="align:left">
+    <b>University of Southern California</b>
+    <span style="float:right">01/2022 -- 12/2023</span>
+</p>
+<p style="align:left">
+    <i>Master of Science in Computer Science</i>
+    <span style="float:right">Los Angeles, California</span>
+</p>
 
-- Master of Science in Computer Science (2022-2023)
-
-## Peking University
-
-- Bachelor of Science in Computer Science (2017-2021)
+<p style="align:left">
+    <b>Peking University</b>
+    <span style="float:right">09/2017 -- 07/2021</span>
+</p>
+<p style="align:left">
+    <i>Bachelor of Science in Computer Science</i>
+    <span style="float:right">Beijing, China</span>
+</p>
 
 # Experience
 
-## Gameplay Engineer Intern @ T
+## Gameplay Engineer Intern At Tencent
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/75RZiVnQTMs?si=quVvE3g910lAlMNv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
