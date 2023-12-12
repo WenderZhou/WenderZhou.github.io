@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Wenda Zhou"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,10 +12,15 @@ redirect_from:
 
 ---
 
-## Gamplay Engineer Intern
+## Gameplay Engineer Intern
 
 - Developed two mini games named [*Destroy Blocks*](https://drive.google.com/file/d/1p-Irq4oTw_zVFyyB4XbyJB7pNv7R-LcW/view?usp=sharing) and [*Jelly Warrior*](https://youtu.be/75RZiVnQTMs?si=43WYhWSJryIFql4n) with Unreal Engine
+
 - Simulated elastic objects using three methods: mass-spring system, position-based dynamics and finite element method
+
+```html
+<iframe width="560" height="315" src="https://youtu.be/75RZiVnQTMs?si=43WYhWSJryIFql4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
 
 # Project
 
