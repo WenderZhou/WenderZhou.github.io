@@ -18,9 +18,7 @@ redirect_from:
 
 - Simulated elastic objects using three methods: mass-spring system, position-based dynamics and finite element method
 
-```html
 <iframe width="560" height="315" src="https://youtu.be/75RZiVnQTMs?si=43WYhWSJryIFql4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
 
 # Project
 
