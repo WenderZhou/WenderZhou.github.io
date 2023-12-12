@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wenda Zhou"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 # Experience
-
----
 
 ## Gameplay Engineer Intern
 
@@ -22,7 +20,6 @@ redirect_from:
 
 # Project
 
----
 
 ## Game Engine Development
 
