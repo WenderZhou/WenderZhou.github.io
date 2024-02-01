@@ -30,6 +30,51 @@ redirect_from:
 
 # Experience
 
+## Graphics Programmer Intern At The-Forge
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body>
+    <h1>Compare These Images</h1>
+
+    <div class="image-comparison">
+      <div class="images-container">
+        <img class="before-image" src="images/before.jpg" alt="" />
+        <img class="after-image" src="images/after.jpg" alt="" />
+
+        <div class="slider-line"></div>
+        <div class="slider-icon">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            class="w-6 h-6"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M8.25 15L12 18.75 15.75 15m-7.5-6L12 5.25 15.75 9"
+            />
+          </svg>
+        </div>
+
+        <input type="range" class="slider" min="0" max="100" />
+      </div>
+    </div>
+
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
+
+
 ## Gameplay Engineer Intern At Tencent
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/75RZiVnQTMs?si=quVvE3g910lAlMNv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
