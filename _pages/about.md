@@ -41,8 +41,6 @@ redirect_from:
     <link rel="stylesheet" href="assets/css/imgdiff.css" />
   </head>
   <body>
-    <h1>Compare These Images</h1>
-
     <div class="image-comparison">
       <div class="images-container">
         <img class="before-image" src="images/before.jpg" alt="" />
