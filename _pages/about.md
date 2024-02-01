@@ -38,7 +38,7 @@ redirect_from:
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/imgdiff.css" />
   </head>
   <body>
     <h1>Compare These Images</h1>
@@ -70,7 +70,7 @@ redirect_from:
       </div>
     </div>
 
-    <script src="assets/js/main.js"></script>
+    <script src="assets/js/imgdiff.js"></script>
   </body>
 </html>
 
