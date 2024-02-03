@@ -39,9 +39,9 @@ redirect_from:
 
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
 	
-	<link rel="stylesheet" href="asset/css/reset.css"> <!-- CSS reset -->
-	<link rel="stylesheet" href="asset/css/style.css"> <!-- Resource style -->
-	<script src="asset/js/modernizr.js"></script> <!-- Modernizr -->
+	<link rel="stylesheet" href="assets/css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="assets/css/style.css"> <!-- Resource style -->
+	<script src="assets/js/modernizr.js"></script> <!-- Modernizr -->
 	
 	<title>Image Comparison Slider | CodyHouse</title>
 </head>
@@ -57,9 +57,9 @@ redirect_from:
 	
 		<span class="cd-handle"></span>
 	</figure> <!-- cd-image-container -->
-  <script src="asset/js/jquery-2.1.1.js"></script>
-  <script src="asset/js/jquery.mobile.custom.min.js"></script> <!-- Resource jQuery -->
-  <script src="asset/js/main.js"></script> <!-- Resource jQuery -->
+  <script src="assets/js/jquery-2.1.1.js"></script>
+  <script src="assets/js/jquery.mobile.custom.min.js"></script> <!-- Resource jQuery -->
+  <script src="assets/js/main.js"></script> <!-- Resource jQuery -->
 </body>
 </html>
 
