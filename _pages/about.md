@@ -32,44 +32,35 @@ redirect_from:
 
 ## Graphics Programmer Intern At The-Forge
 
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <link rel="stylesheet" href="assets/css/imgdiff.css" />
-  </head>
-  <body>
-    <div class="image-comparison">
-      <div class="images-container">
-        <img class="before-image" src="images/before.jpg" alt="" />
-        <img class="after-image" src="images/after.jpg" alt="" />
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <div class="slider-line"></div>
-        <div class="slider-icon">
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke-width="1.5"
-            stroke="currentColor"
-            class="w-6 h-6"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              d="M8.25 15L12 18.75 15.75 15m-7.5-6L12 5.25 15.75 9"
-            />
-          </svg>
-        </div>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+	
+	<link rel="stylesheet" href="asset/css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="asset/css/style.css"> <!-- Resource style -->
+	<script src="asset/js/modernizr.js"></script> <!-- Modernizr -->
+	
+	<title>Image Comparison Slider | CodyHouse</title>
+</head>
+<body>
+	<figure class="cd-image-container">
+		<img src="images/before.png" alt="Original Image">
+		<span class="cd-image-label" data-type="original">Original</span>
 
-        <input type="range" class="slider" min="0" max="100" />
-      </div>
-    </div>
-
-    <script src="assets/js/imgdiff.js"></script>
-  </body>
+		<div class="cd-resize-img"> <!-- the resizable image on top -->
+			<img src="images/after.png" alt="Modified Image">
+			<span class="cd-image-label" data-type="modified">Modified</span>
+		</div>
+	
+		<span class="cd-handle"></span>
+	</figure> <!-- cd-image-container -->
+  <script src="asset/js/jquery-2.1.1.js"></script>
+  <script src="asset/js/jquery.mobile.custom.min.js"></script> <!-- Resource jQuery -->
+  <script src="asset/js/main.js"></script> <!-- Resource jQuery -->
+</body>
 </html>
 
 
