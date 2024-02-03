@@ -39,7 +39,6 @@ redirect_from:
 
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
 	
-	<link rel="stylesheet" href="assets/css/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="assets/css/style.css"> <!-- Resource style -->
 	<script src="assets/js/modernizr.js"></script> <!-- Modernizr -->
 	
