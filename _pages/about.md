@@ -45,11 +45,11 @@ redirect_from:
 </head>
 <body>
 	<figure class="cd-image-container">
-		<img src="images/before.jpg" alt="Original Image">
+		<img src="images/before.png" style="margin-bottom:0em;" alt="Original Image">
 		<span class="cd-image-label" data-type="original">Original</span>
 
 		<div class="cd-resize-img"> <!-- the resizable image on top -->
-			<img src="images/after.jpg" alt="Modified Image">
+			<img src="images/after.png" style="margin-bottom:0em;" alt="Modified Image">
 			<span class="cd-image-label" data-type="modified">Modified</span>
 		</div>
 	
